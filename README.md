@@ -2,4 +2,5 @@
 
 Estudos sobre Python. 
 Neste módulo a ideia é rever conceitos fundamentais, bem como, sintaxe, laços, listas, tuplas, dict.
-Nisso, utilizo a construção de um Gerenciamento de tarefas simples.
+Com isso, realizei um projeto simples para a construção de um <b>Gerenciamento de tarefas simples</b>.
+O projeto consiste nas funções de criar, visualizar, atualizar, completar tarefa existente e deletar tarefas. (manager.py)
